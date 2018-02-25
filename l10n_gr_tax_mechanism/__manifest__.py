@@ -16,6 +16,7 @@
     "data": [
         'views/account_config_settings.xml',
         'views/tax_mechanism_printer.xml',
+        'views/account_invoice.xml',
     ],
     "installable": True,
     "application": False,
